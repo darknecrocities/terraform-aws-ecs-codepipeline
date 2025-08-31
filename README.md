@@ -1,5 +1,4 @@
 
-
 <!-- markdownlint-disable -->
 <a href="https://cpco.io/homepage"><img src="https://github.com/cloudposse/terraform-aws-ecs-codepipeline/blob/main/.github/banner.png?raw=true" alt="Project Banner"/></a><br/>
 
